@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language türkçe
+## codeset 12
+;
+MSG_TITLE
+Sistem Gezgini
+; System Explorer
+;
+MSG_WINTITLE
+Sistem Gezgini
+; System Explorer
+;
+MSG_DESCRIPTION
+Sistem ve donaným bilgi aracý
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Proje
+; Project
+;
+MSG_MENU_PROPERTIES
+Özellikler
+; Properties
+;
+MSG_MENU_EXPANDALL
+Tümünü Geniþlet
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Tümünü Daralt
+; Collapse All
+;
+MSG_MENU_QUIT
+Çýkýþ
+; Quit
+;
+MSG_HIDD_TREE
+HIDD Aðacý
+; HIDD Tree
+;
+MSG_PROPERTIES
+Özellikler
+; Properties
+;
+MSG_LABEL_DRIVER
+Sürücü örnek adý
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Donaným açýklamasý
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Üretici bilgisi
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Sistem özellikleri
+; System properties
+;
+MSG_VERSION
+Sürüm
+; Version
+;
+MSG_PROCESSORS
+Ýþlemciler
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Bellek
+; Memory
+;
+MSG_BOOTLOADER
+Önyükleyici
+; Boot loader
+;
+MSG_ARGUMENTS
+Önyükleme Argümanlarý
+; Boot Arguments
+;
+MSG_AVAILABLE
+Kullanýma hazýr
+; Available for use
+;
+MSG_GENERAL
+Genel
+; General
+;
+MSG_NAME
+Adý
+; Name
+;
+MSG_HARDWARE_NAME
+Donaným Adý
+; Hardware Name
+;
+MSG_PRODUCT_ID
+Ürün ID
+; Product ID
+;
+MSG_PRODUCER_NAME
+Üretici Adý
+; Vendor Name
+;
+MSG_PRODUCER_ID
+Üretici ID
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Aygýt özellikleri
+; Device properties
+;
+MSG_ATA_PROPERTIES
+IDE veri yolu özellikleri
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Alternatif yazmaç desteði
+; Supports alternate registers
+;
+MSG_USE_32BIT
+32-bit PIO desteði
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+DMA desteði
+; Supports DMA
+;
+MSG_USE_80WIRE
+80 telli kablo
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+IDE aygýt özellikleri
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Birim numarasý
+; Unit number
+;
+MSG_MODEL
+Model
+; Model
+;
+MSG_REVISION
+Revizyon
+; Revision
+;
+MSG_SERIAL
+Seri
+; Serial
+;
+MSG_TRANSFER_MODES
+Desteklenen kipler
+; Supported modes
+;
+MSG_MULTISECTOR
+Çoklu sektör sýnýrý
+; Multisector limit
+;
+MSG_REMOVABLE
+Çýkarýlabilir
+; Removable
+;
+MSG_CONFIG_MODES
+Yapýlandýrýlmýþ kipler
+; Configured modes
+;

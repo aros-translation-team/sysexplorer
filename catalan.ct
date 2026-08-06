@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_TITLE
+Explorador del sistema
+; System Explorer
+;
+MSG_WINTITLE
+Explorador del sistema
+; System Explorer
+;
+MSG_DESCRIPTION
+Eina d'informació del sistema i el maquinari
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Projecte
+; Project
+;
+MSG_MENU_PROPERTIES
+Propietats
+; Properties
+;
+MSG_MENU_EXPANDALL
+Expandir-ho tot
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Contraure-ho tot
+; Collapse All
+;
+MSG_MENU_QUIT
+Sortir
+; Quit
+;
+MSG_HIDD_TREE
+Arbre HIDD
+; HIDD Tree
+;
+MSG_PROPERTIES
+Propietats
+; Properties
+;
+MSG_LABEL_DRIVER
+Nom de la instància del controlador
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Descripció del maquinari
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Informació del fabricant
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Propietats del sistema
+; System properties
+;
+MSG_VERSION
+Versió
+; Version
+;
+MSG_PROCESSORS
+Processadors
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Memòria
+; Memory
+;
+MSG_BOOTLOADER
+Carregador d'arrencada
+; Boot loader
+;
+MSG_ARGUMENTS
+Arguments d'arrencada
+; Boot Arguments
+;
+MSG_AVAILABLE
+Disponible per a l'ús
+; Available for use
+;
+MSG_GENERAL
+General
+; General
+;
+MSG_NAME
+Nom
+; Name
+;
+MSG_HARDWARE_NAME
+Nom del maquinari
+; Hardware Name
+;
+MSG_PRODUCT_ID
+ID del producte
+; Product ID
+;
+MSG_PRODUCER_NAME
+Nom del fabricant
+; Vendor Name
+;
+MSG_PRODUCER_ID
+ID del fabricant
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Propietats del dispositiu
+; Device properties
+;
+MSG_ATA_PROPERTIES
+Propietats del bus IDE
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Suporta registres alternatius
+; Supports alternate registers
+;
+MSG_USE_32BIT
+Suporta PIO de 32 bits
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+Suporta DMA
+; Supports DMA
+;
+MSG_USE_80WIRE
+Cable de 80 fils
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+Propietats del dispositiu IDE
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Número d'unitat
+; Unit number
+;
+MSG_MODEL
+Model
+; Model
+;
+MSG_REVISION
+Revisió
+; Revision
+;
+MSG_SERIAL
+Sèrie
+; Serial
+;
+MSG_TRANSFER_MODES
+Modes suportats
+; Supported modes
+;
+MSG_MULTISECTOR
+Límit multisector
+; Multisector limit
+;
+MSG_REMOVABLE
+Extraïble
+; Removable
+;
+MSG_CONFIG_MODES
+Modes configurats
+; Configured modes
+;

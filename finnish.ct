@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_TITLE
+System Explorer
+; System Explorer
+;
+MSG_WINTITLE
+System Explorer
+; System Explorer
+;
+MSG_DESCRIPTION
+Järjestelmä- ja laitteistotietotyökalu
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Projekti
+; Project
+;
+MSG_MENU_PROPERTIES
+Ominaisuudet
+; Properties
+;
+MSG_MENU_EXPANDALL
+Laajenna kaikki
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Kutista kaikki
+; Collapse All
+;
+MSG_MENU_QUIT
+Lopeta
+; Quit
+;
+MSG_HIDD_TREE
+HIDD-puu
+; HIDD Tree
+;
+MSG_PROPERTIES
+Ominaisuudet
+; Properties
+;
+MSG_LABEL_DRIVER
+Ajurin instanssin nimi
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Laitteiston kuvaus
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Valmistajan tiedot
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Järjestelmän ominaisuudet
+; System properties
+;
+MSG_VERSION
+Versio
+; Version
+;
+MSG_PROCESSORS
+Suorittimet
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Muisti
+; Memory
+;
+MSG_BOOTLOADER
+Käynnistyslataaja
+; Boot loader
+;
+MSG_ARGUMENTS
+Käynnistysargumentit
+; Boot Arguments
+;
+MSG_AVAILABLE
+Käytettävissä
+; Available for use
+;
+MSG_GENERAL
+Yleistä
+; General
+;
+MSG_NAME
+Nimi
+; Name
+;
+MSG_HARDWARE_NAME
+Laitteiston nimi
+; Hardware Name
+;
+MSG_PRODUCT_ID
+Tuotetunnus
+; Product ID
+;
+MSG_PRODUCER_NAME
+Valmistajan nimi
+; Vendor Name
+;
+MSG_PRODUCER_ID
+Valmistajan tunnus
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Laitteen ominaisuudet
+; Device properties
+;
+MSG_ATA_PROPERTIES
+IDE-väylän ominaisuudet
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Tukee vaihtoehtoisia rekistereitä
+; Supports alternate registers
+;
+MSG_USE_32BIT
+Tukee 32-bittistä PIO:ta
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+Tukee DMA:ta
+; Supports DMA
+;
+MSG_USE_80WIRE
+80-johtiminen kaapeli
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+IDE-laitteen ominaisuudet
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Laitenumero
+; Unit number
+;
+MSG_MODEL
+Malli
+; Model
+;
+MSG_REVISION
+Versio
+; Revision
+;
+MSG_SERIAL
+Sarjaportti
+; Serial
+;
+MSG_TRANSFER_MODES
+Tuetut tilat
+; Supported modes
+;
+MSG_MULTISECTOR
+Monisektorirajoitus
+; Multisector limit
+;
+MSG_REMOVABLE
+Irrotettava
+; Removable
+;
+MSG_CONFIG_MODES
+Määritetyt tilat
+; Configured modes
+;

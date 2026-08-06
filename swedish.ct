@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_TITLE
+System Explorer
+; System Explorer
+;
+MSG_WINTITLE
+System Explorer
+; System Explorer
+;
+MSG_DESCRIPTION
+Verktyg för system- och hårdvaruinformation
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_PROPERTIES
+Egenskaper
+; Properties
+;
+MSG_MENU_EXPANDALL
+Expandera alla
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Fäll ihop alla
+; Collapse All
+;
+MSG_MENU_QUIT
+Avsluta
+; Quit
+;
+MSG_HIDD_TREE
+HIDD-träd
+; HIDD Tree
+;
+MSG_PROPERTIES
+Egenskaper
+; Properties
+;
+MSG_LABEL_DRIVER
+Drivrutinens instansnamn
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Hårdvarubeskrivning
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Tillverkarinformation
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Systemegenskaper
+; System properties
+;
+MSG_VERSION
+Version
+; Version
+;
+MSG_PROCESSORS
+Processorer
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Minne
+; Memory
+;
+MSG_BOOTLOADER
+Startladdare
+; Boot loader
+;
+MSG_ARGUMENTS
+Startargument
+; Boot Arguments
+;
+MSG_AVAILABLE
+Tillgängligt för användning
+; Available for use
+;
+MSG_GENERAL
+Diverse
+; General
+;
+MSG_NAME
+Namn
+; Name
+;
+MSG_HARDWARE_NAME
+Hårdvarunamn
+; Hardware Name
+;
+MSG_PRODUCT_ID
+Produkt-ID
+; Product ID
+;
+MSG_PRODUCER_NAME
+Tillverkarnamn
+; Vendor Name
+;
+MSG_PRODUCER_ID
+Tillverkar-ID
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Enhetsegenskaper
+; Device properties
+;
+MSG_ATA_PROPERTIES
+Egenskaper för IDE-buss
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Stöder alternativa register
+; Supports alternate registers
+;
+MSG_USE_32BIT
+Stöder 32-bitars PIO
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+Stöder DMA
+; Supports DMA
+;
+MSG_USE_80WIRE
+80-ledarkabel
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+Egenskaper för IDE-enhet
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Enhetsnummer
+; Unit number
+;
+MSG_MODEL
+Modell
+; Model
+;
+MSG_REVISION
+Revision
+; Revision
+;
+MSG_SERIAL
+Seriell
+; Serial
+;
+MSG_TRANSFER_MODES
+Lägen som stöds
+; Supported modes
+;
+MSG_MULTISECTOR
+Multisektorgräns
+; Multisector limit
+;
+MSG_REMOVABLE
+Flyttbar
+; Removable
+;
+MSG_CONFIG_MODES
+Konfigurerade lägen
+; Configured modes
+;

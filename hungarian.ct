@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_TITLE
+Rendszerböngészõ
+; System Explorer
+;
+MSG_WINTITLE
+Rendszerböngészõ
+; System Explorer
+;
+MSG_DESCRIPTION
+Rendszer- és hardverinformációs eszköz
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Projekt
+; Project
+;
+MSG_MENU_PROPERTIES
+Tulajdonságok
+; Properties
+;
+MSG_MENU_EXPANDALL
+Összes kibontása
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Összes összecsukása
+; Collapse All
+;
+MSG_MENU_QUIT
+Kilépés
+; Quit
+;
+MSG_HIDD_TREE
+HIDD fa
+; HIDD Tree
+;
+MSG_PROPERTIES
+Tulajdonságok
+; Properties
+;
+MSG_LABEL_DRIVER
+Meghajtópéldány neve
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Hardverleírás
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Gyártói információk
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Rendszer tulajdonságai
+; System properties
+;
+MSG_VERSION
+Verzió
+; Version
+;
+MSG_PROCESSORS
+Processzorok
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Memória
+; Memory
+;
+MSG_BOOTLOADER
+Rendszerbetöltõ
+; Boot loader
+;
+MSG_ARGUMENTS
+Indítási argumentumok
+; Boot Arguments
+;
+MSG_AVAILABLE
+Használatra elérhetõ
+; Available for use
+;
+MSG_GENERAL
+Általános
+; General
+;
+MSG_NAME
+Név
+; Name
+;
+MSG_HARDWARE_NAME
+Hardvernév
+; Hardware Name
+;
+MSG_PRODUCT_ID
+Termékazonosító
+; Product ID
+;
+MSG_PRODUCER_NAME
+Gyártó neve
+; Vendor Name
+;
+MSG_PRODUCER_ID
+Gyártóazonosító
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Eszköz tulajdonságai
+; Device properties
+;
+MSG_ATA_PROPERTIES
+IDE busz tulajdonságai
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Támogatja az alternatív regisztereket
+; Supports alternate registers
+;
+MSG_USE_32BIT
+Támogatja a 32 bites PIO-t
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+Támogatja a DMA-t
+; Supports DMA
+;
+MSG_USE_80WIRE
+80 eres kábel
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+IDE eszköz tulajdonságai
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Egységszám
+; Unit number
+;
+MSG_MODEL
+Modell
+; Model
+;
+MSG_REVISION
+Változat
+; Revision
+;
+MSG_SERIAL
+Soros
+; Serial
+;
+MSG_TRANSFER_MODES
+Támogatott módok
+; Supported modes
+;
+MSG_MULTISECTOR
+Többszektoros korlát
+; Multisector limit
+;
+MSG_REMOVABLE
+Cserélhetõ
+; Removable
+;
+MSG_CONFIG_MODES
+Beállított módok
+; Configured modes
+;

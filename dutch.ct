@@ -1,0 +1,176 @@
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## language nederlands
+## codeset 0
+;
+MSG_TITLE
+System Explorer
+; System Explorer
+;
+MSG_WINTITLE
+System Explorer
+; System Explorer
+;
+MSG_DESCRIPTION
+Informatietool voor systeem en hardware
+; System and hardware information tool
+;
+MSG_MENU_PROJECT
+Project
+; Project
+;
+MSG_MENU_PROPERTIES
+Eigenschappen
+; Properties
+;
+MSG_MENU_EXPANDALL
+Alles uitklappen
+; Expand All
+;
+MSG_MENU_COLLAPSEALL
+Alles inklappen
+; Collapse All
+;
+MSG_MENU_QUIT
+Einde
+; Quit
+;
+MSG_HIDD_TREE
+HIDD-boom
+; HIDD Tree
+;
+MSG_PROPERTIES
+Eigenschappen
+; Properties
+;
+MSG_LABEL_DRIVER
+Naam van driverinstantie
+; Driver instance name
+;
+MSG_LABEL_HW_DESCRIPTION
+Hardwarebeschrijving
+; Hardware description
+;
+MSG_LABEL_VENDOR
+Fabrikantinformatie
+; Vendor information
+;
+MSG_SYSTEM_PROPERTIES
+Systeemeigenschappen
+; System properties
+;
+MSG_VERSION
+Versie
+; Version
+;
+MSG_PROCESSORS
+Processoren
+; Processors
+;
+MSG_HPET
+HPET
+; HPET
+;
+MSG_RAM
+Geheugen
+; Memory
+;
+MSG_BOOTLOADER
+Bootloader
+; Boot loader
+;
+MSG_ARGUMENTS
+Opstartargumenten
+; Boot Arguments
+;
+MSG_AVAILABLE
+Beschikbaar voor gebruik
+; Available for use
+;
+MSG_GENERAL
+Algemeen
+; General
+;
+MSG_NAME
+Naam
+; Name
+;
+MSG_HARDWARE_NAME
+Hardwarenaam
+; Hardware Name
+;
+MSG_PRODUCT_ID
+Product-ID
+; Product ID
+;
+MSG_PRODUCER_NAME
+Fabrikantnaam
+; Vendor Name
+;
+MSG_PRODUCER_ID
+Fabrikant-ID
+; Vendor ID
+;
+MSG_DEVICE_PROPERTIES
+Apparaateigenschappen
+; Device properties
+;
+MSG_ATA_PROPERTIES
+IDE-buseigenschappen
+; IDE bus properties
+;
+MSG_ATA
+IDE
+; IDE
+;
+MSG_USE_IOALT
+Ondersteunt alternatieve registers
+; Supports alternate registers
+;
+MSG_USE_32BIT
+Ondersteunt 32-bits PIO
+; Supports 32-bit PIO
+;
+MSG_USE_DMA
+Ondersteunt DMA
+; Supports DMA
+;
+MSG_USE_80WIRE
+80-aderige kabel
+; 80-wire cable
+;
+MSG_ATA_UNIT_PROPERTIES
+Eigenschappen IDE-apparaat
+; IDE device properties
+;
+MSG_UNIT_NUMBER
+Unitnummer
+; Unit number
+;
+MSG_MODEL
+Model
+; Model
+;
+MSG_REVISION
+Revisie
+; Revision
+;
+MSG_SERIAL
+Serieel
+; Serial
+;
+MSG_TRANSFER_MODES
+Ondersteunde modes
+; Supported modes
+;
+MSG_MULTISECTOR
+Multisectorlimiet
+; Multisector limit
+;
+MSG_REMOVABLE
+Verwisselbaar
+; Removable
+;
+MSG_CONFIG_MODES
+Geconfigureerde modes
+; Configured modes
+;
