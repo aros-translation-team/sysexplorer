@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (20.05.2019)
+## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
 ## language norsk
 ## codeset 0
 ;
@@ -169,7 +169,7 @@ MSG_REMOVABLE
 Kan fjernes
 ;Removable
 ;
-MSG_CONFIG_MODE
-Konfigurert modus
-;Configured modes
+MSG_CONFIG_MODES
+Konfigurerte moduser
+; Configured modes
 ;
