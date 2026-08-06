@@ -128,7 +128,7 @@ Ordezko erregistroak onartzen ditu
 ; Supports alternate registers
 ;
 MSG_USE_32BIT
-32 biteko PIOa Onartzen du 
+32 biteko PIOa Onartzen du
 ; Supports 32-bit PIO
 ;
 MSG_USE_DMA
