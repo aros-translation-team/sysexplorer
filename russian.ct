@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (16.12.2020)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language russian
 ## codeset 2104
 ;
@@ -174,4 +174,76 @@ MSG_REMOVABLE
 MSG_CONFIG_MODES
 Настроенные режимы
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Путь устройства
+; Device path
+;
+MSG_RELATIONS
+Связанные объекты
+; Related objects
+;
+MSG_REL_PARENT
+Часть
+; Part of
+;
+MSG_REL_CHILD
+Содержит
+; Contains
+;
+MSG_REL_DEVICE
+Устройство
+; Device
+;
+MSG_REL_DRIVER
+Драйвер
+; Driver
+;
+MSG_REL_USES
+Использует
+; Uses
+;
+MSG_REL_USEDBY
+Используется
+; Used by
+;
+MSG_REL_EXPOSES
+Предоставляет
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Предоставляется
+; Provided by
+;
+MSG_REL_FIRMWARE
+Узел прошивки
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Описывает
+; Describes
+;
+MSG_REL_POWEREDBY
+Питается от
+; Powered by
+;
+MSG_REL_POWERS
+Питает
+; Powers
+;
+MSG_REL_MONITORS
+Контролирует
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Контролируется
+; Monitored by
+;
+MSG_REL_COMPANION
+Сопутствующее
+; Companion
+;
+MSG_REL_OTHER
+Связанное
+; Related
 ;

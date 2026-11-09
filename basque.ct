@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (29.02.2024)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language euskara
 ## codeset 0
 ;
@@ -174,4 +174,76 @@ Erauzgarri
 MSG_CONFIG_MODES
 Konfiguratutako moduak
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Gailuaren bidea
+; Device path
+;
+MSG_RELATIONS
+Erlazionatutako objektuak
+; Related objects
+;
+MSG_REL_PARENT
+Honen zatia
+; Part of
+;
+MSG_REL_CHILD
+Hau dauka
+; Contains
+;
+MSG_REL_DEVICE
+Gailua
+; Device
+;
+MSG_REL_DRIVER
+Driverra
+; Driver
+;
+MSG_REL_USES
+Erabiltzen du
+; Uses
+;
+MSG_REL_USEDBY
+Honek erabilia
+; Used by
+;
+MSG_REL_EXPOSES
+Eskaintzen du
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Honek eskainia
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware nodoa
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Deskribatzen du
+; Describes
+;
+MSG_REL_POWEREDBY
+Honek elikatua
+; Powered by
+;
+MSG_REL_POWERS
+Elikatzen du
+; Powers
+;
+MSG_REL_MONITORS
+Monitorizatzen du
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Honek monitorizatua
+; Monitored by
+;
+MSG_REL_COMPANION
+Laguntzailea
+; Companion
+;
+MSG_REL_OTHER
+Erlazionatua
+; Related
 ;

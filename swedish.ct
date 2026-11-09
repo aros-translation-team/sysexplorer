@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language svenska
 ## codeset 0
 ;
@@ -173,4 +173,76 @@ Flyttbar
 MSG_CONFIG_MODES
 Konfigurerade lägen
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Enhetssökväg
+; Device path
+;
+MSG_RELATIONS
+Relaterade objekt
+; Related objects
+;
+MSG_REL_PARENT
+Del av
+; Part of
+;
+MSG_REL_CHILD
+Innehåller
+; Contains
+;
+MSG_REL_DEVICE
+Enhet
+; Device
+;
+MSG_REL_DRIVER
+Drivrutin
+; Driver
+;
+MSG_REL_USES
+Använder
+; Uses
+;
+MSG_REL_USEDBY
+Används av
+; Used by
+;
+MSG_REL_EXPOSES
+Tillhandahåller
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Tillhandahålls av
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware-nod
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Beskriver
+; Describes
+;
+MSG_REL_POWEREDBY
+Strömförsörjs av
+; Powered by
+;
+MSG_REL_POWERS
+Strömförsörjer
+; Powers
+;
+MSG_REL_MONITORS
+Övervakar
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Övervakas av
+; Monitored by
+;
+MSG_REL_COMPANION
+Följeenhet
+; Companion
+;
+MSG_REL_OTHER
+Relaterad
+; Related
 ;

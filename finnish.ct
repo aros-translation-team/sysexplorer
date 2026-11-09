@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language suomi
 ## codeset 0
 ;
@@ -173,4 +173,76 @@ Irrotettava
 MSG_CONFIG_MODES
 M‰‰ritetyt tilat
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Laitepolku
+; Device path
+;
+MSG_RELATIONS
+Liittyv‰t objektit
+; Related objects
+;
+MSG_REL_PARENT
+Osa kohteesta
+; Part of
+;
+MSG_REL_CHILD
+Sis‰lt‰‰
+; Contains
+;
+MSG_REL_DEVICE
+Laite
+; Device
+;
+MSG_REL_DRIVER
+Ajuri
+; Driver
+;
+MSG_REL_USES
+K‰ytt‰‰
+; Uses
+;
+MSG_REL_USEDBY
+K‰ytt‰j‰
+; Used by
+;
+MSG_REL_EXPOSES
+Tarjoaa
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Tarjoaja
+; Provided by
+;
+MSG_REL_FIRMWARE
+Laiteohjelmiston solmu
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Kuvaa
+; Describes
+;
+MSG_REL_POWEREDBY
+Virran l‰hde
+; Powered by
+;
+MSG_REL_POWERS
+Syˆtt‰‰ virtaa
+; Powers
+;
+MSG_REL_MONITORS
+Valvoo
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Valvoja
+; Monitored by
+;
+MSG_REL_COMPANION
+Kumppani
+; Companion
+;
+MSG_REL_OTHER
+Liittyv‰
+; Related
 ;

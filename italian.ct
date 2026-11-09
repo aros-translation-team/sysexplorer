@@ -1,4 +1,4 @@
-## version $VER: sysexplorer.catalog 2.0 (05.05.2023)
+## version $VER: sysexplorer.catalog 2.1 (09.11.2026)
 ## language italiano
 ## codeset 0
 ; Authors: AMIGASYSTEM
@@ -174,4 +174,76 @@ Rimovibile
 MSG_CONFIG_MODES
 Modalità configurate
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Percorso del dispositivo
+; Device path
+;
+MSG_RELATIONS
+Oggetti correlati
+; Related objects
+;
+MSG_REL_PARENT
+Parte di
+; Part of
+;
+MSG_REL_CHILD
+Contiene
+; Contains
+;
+MSG_REL_DEVICE
+Dispositivo
+; Device
+;
+MSG_REL_DRIVER
+Driver
+; Driver
+;
+MSG_REL_USES
+Usa
+; Uses
+;
+MSG_REL_USEDBY
+Usato da
+; Used by
+;
+MSG_REL_EXPOSES
+Fornisce
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Fornito da
+; Provided by
+;
+MSG_REL_FIRMWARE
+Nodo firmware
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Descrive
+; Describes
+;
+MSG_REL_POWEREDBY
+Alimentato da
+; Powered by
+;
+MSG_REL_POWERS
+Alimenta
+; Powers
+;
+MSG_REL_MONITORS
+Monitora
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Monitorato da
+; Monitored by
+;
+MSG_REL_COMPANION
+Associato
+; Companion
+;
+MSG_REL_OTHER
+Correlato
+; Related
 ;

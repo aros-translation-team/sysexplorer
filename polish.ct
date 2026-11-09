@@ -1,4 +1,4 @@
-## version $VER: sysexplorer.catalog 2.0 (21.04.2019)
+## version $VER: sysexplorer.catalog 2.1 (09.11.2026)
 ## language polski
 ## codeset 5
 ;
@@ -174,4 +174,76 @@ Urz±dzenie wymienne
 MSG_CONFIG_MODES
 Skonfigurowane tryby
 ; Configured modes
+;
+MSG_DEVICE_PATH
+¦cie¿ka urz±dzenia
+; Device path
+;
+MSG_RELATIONS
+Powi±zane obiekty
+; Related objects
+;
+MSG_REL_PARENT
+Czê¶æ
+; Part of
+;
+MSG_REL_CHILD
+Zawiera
+; Contains
+;
+MSG_REL_DEVICE
+Urz±dzenie
+; Device
+;
+MSG_REL_DRIVER
+Sterownik
+; Driver
+;
+MSG_REL_USES
+U¿ywa
+; Uses
+;
+MSG_REL_USEDBY
+U¿ywane przez
+; Used by
+;
+MSG_REL_EXPOSES
+Udostêpnia
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Udostêpniane przez
+; Provided by
+;
+MSG_REL_FIRMWARE
+Wêze³ firmware
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Opisuje
+; Describes
+;
+MSG_REL_POWEREDBY
+Zasilane przez
+; Powered by
+;
+MSG_REL_POWERS
+Zasila
+; Powers
+;
+MSG_REL_MONITORS
+Monitoruje
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Monitorowane przez
+; Monitored by
+;
+MSG_REL_COMPANION
+Towarzysz±ce
+; Companion
+;
+MSG_REL_OTHER
+Powi±zane
+; Related
 ;

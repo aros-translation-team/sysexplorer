@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language srpski
 ## codeset 8
 ;
@@ -173,4 +173,76 @@ Uklonjiv
 MSG_CONFIG_MODES
 Konfigurisani modovi
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Putanja ureÐaja
+; Device path
+;
+MSG_RELATIONS
+Povezani objekti
+; Related objects
+;
+MSG_REL_PARENT
+Deo od
+; Part of
+;
+MSG_REL_CHILD
+Sadr§i
+; Contains
+;
+MSG_REL_DEVICE
+UreÐaj
+; Device
+;
+MSG_REL_DRIVER
+Drajver
+; Driver
+;
+MSG_REL_USES
+Koristi
+; Uses
+;
+MSG_REL_USEDBY
+Koristi ga
+; Used by
+;
+MSG_REL_EXPOSES
+Pru§a
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Pru§a ga
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware Ÿvor
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Opisuje
+; Describes
+;
+MSG_REL_POWEREDBY
+Napaja ga
+; Powered by
+;
+MSG_REL_POWERS
+Napaja
+; Powers
+;
+MSG_REL_MONITORS
+Nadgleda
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Nadgleda ga
+; Monitored by
+;
+MSG_REL_COMPANION
+Pratilac
+; Companion
+;
+MSG_REL_OTHER
+Povezano
+; Related
 ;

@@ -1,4 +1,4 @@
-## version $VER: sysexplorer.catalog 2.0 (26.08.2016)
+## version $VER: sysexplorer.catalog 2.1 (09.11.2026)
 ## language czech
 ## codeset 5
 ;
@@ -174,4 +174,76 @@ Odebrat
 MSG_CONFIG_MODES
 Konfigurované módy
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Cesta k zaøízení
+; Device path
+;
+MSG_RELATIONS
+Související objekty
+; Related objects
+;
+MSG_REL_PARENT
+Souèást
+; Part of
+;
+MSG_REL_CHILD
+Obsahuje
+; Contains
+;
+MSG_REL_DEVICE
+Zaøízení
+; Device
+;
+MSG_REL_DRIVER
+Ovladaè
+; Driver
+;
+MSG_REL_USES
+Pou¾ívá
+; Uses
+;
+MSG_REL_USEDBY
+Pou¾íváno
+; Used by
+;
+MSG_REL_EXPOSES
+Poskytuje
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Poskytováno
+; Provided by
+;
+MSG_REL_FIRMWARE
+Uzel firmwaru
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Popisuje
+; Describes
+;
+MSG_REL_POWEREDBY
+Napájeno z
+; Powered by
+;
+MSG_REL_POWERS
+Napájí
+; Powers
+;
+MSG_REL_MONITORS
+Monitoruje
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Monitorováno
+; Monitored by
+;
+MSG_REL_COMPANION
+Doplnìk
+; Companion
+;
+MSG_REL_OTHER
+Související
+; Related
 ;

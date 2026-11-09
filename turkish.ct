@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language türkçe
 ## codeset 12
 ;
@@ -173,4 +173,76 @@ MSG_REMOVABLE
 MSG_CONFIG_MODES
 Yapýlandýrýlmýþ kipler
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Aygýt yolu
+; Device path
+;
+MSG_RELATIONS
+Ýlgili nesneler
+; Related objects
+;
+MSG_REL_PARENT
+Parçasý
+; Part of
+;
+MSG_REL_CHILD
+Ýçerir
+; Contains
+;
+MSG_REL_DEVICE
+Aygýt
+; Device
+;
+MSG_REL_DRIVER
+Sürücü
+; Driver
+;
+MSG_REL_USES
+Kullanýr
+; Uses
+;
+MSG_REL_USEDBY
+Kullanan
+; Used by
+;
+MSG_REL_EXPOSES
+Saðlar
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Saðlayan
+; Provided by
+;
+MSG_REL_FIRMWARE
+Donaným yazýlýmý düðümü
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Tanýmlar
+; Describes
+;
+MSG_REL_POWEREDBY
+Güç kaynaðý
+; Powered by
+;
+MSG_REL_POWERS
+Güç saðlar
+; Powers
+;
+MSG_REL_MONITORS
+Ýzler
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Ýzleyen
+; Monitored by
+;
+MSG_REL_COMPANION
+Eþlik eden
+; Companion
+;
+MSG_REL_OTHER
+Ýlgili
+; Related
 ;

@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.01.2020)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language deutsch
 ## codeset 0
 ;
@@ -174,4 +174,76 @@ Entfernbar
 MSG_CONFIG_MODES
 Eingestellte Modi
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Gerätepfad
+; Device path
+;
+MSG_RELATIONS
+Verwandte Objekte
+; Related objects
+;
+MSG_REL_PARENT
+Teil von
+; Part of
+;
+MSG_REL_CHILD
+Enthält
+; Contains
+;
+MSG_REL_DEVICE
+Gerät
+; Device
+;
+MSG_REL_DRIVER
+Treiber
+; Driver
+;
+MSG_REL_USES
+Verwendet
+; Uses
+;
+MSG_REL_USEDBY
+Verwendet von
+; Used by
+;
+MSG_REL_EXPOSES
+Stellt bereit
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Bereitgestellt von
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware-Knoten
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Beschreibt
+; Describes
+;
+MSG_REL_POWEREDBY
+Versorgt von
+; Powered by
+;
+MSG_REL_POWERS
+Versorgt
+; Powers
+;
+MSG_REL_MONITORS
+Überwacht
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Überwacht von
+; Monitored by
+;
+MSG_REL_COMPANION
+Begleitgerät
+; Companion
+;
+MSG_REL_OTHER
+Verwandt
+; Related
 ;

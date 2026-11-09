@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language nederlands
 ## codeset 0
 ;
@@ -173,4 +173,76 @@ Verwisselbaar
 MSG_CONFIG_MODES
 Geconfigureerde modes
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Apparaatpad
+; Device path
+;
+MSG_RELATIONS
+Gerelateerde objecten
+; Related objects
+;
+MSG_REL_PARENT
+Onderdeel van
+; Part of
+;
+MSG_REL_CHILD
+Bevat
+; Contains
+;
+MSG_REL_DEVICE
+Apparaat
+; Device
+;
+MSG_REL_DRIVER
+Driver
+; Driver
+;
+MSG_REL_USES
+Gebruikt
+; Uses
+;
+MSG_REL_USEDBY
+Gebruikt door
+; Used by
+;
+MSG_REL_EXPOSES
+Biedt
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Geboden door
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware-knooppunt
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Beschrijft
+; Describes
+;
+MSG_REL_POWEREDBY
+Gevoed door
+; Powered by
+;
+MSG_REL_POWERS
+Voedt
+; Powers
+;
+MSG_REL_MONITORS
+Bewaakt
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Bewaakt door
+; Monitored by
+;
+MSG_REL_COMPANION
+Begeleider
+; Companion
+;
+MSG_REL_OTHER
+Gerelateerd
+; Related
 ;

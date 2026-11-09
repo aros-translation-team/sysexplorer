@@ -1,4 +1,4 @@
-## version $VER: SysExplorer.catalog 2.0 (06.08.2026)
+## version $VER: SysExplorer.catalog 2.1 (09.11.2026)
 ## language dansk
 ## codeset 0
 ;
@@ -173,4 +173,76 @@ Udskiftelig
 MSG_CONFIG_MODES
 Konfigurerede tilstande
 ; Configured modes
+;
+MSG_DEVICE_PATH
+Enhedssti
+; Device path
+;
+MSG_RELATIONS
+Relaterede objekter
+; Related objects
+;
+MSG_REL_PARENT
+Del af
+; Part of
+;
+MSG_REL_CHILD
+Indeholder
+; Contains
+;
+MSG_REL_DEVICE
+Enhed
+; Device
+;
+MSG_REL_DRIVER
+Driver
+; Driver
+;
+MSG_REL_USES
+Bruger
+; Uses
+;
+MSG_REL_USEDBY
+Bruges af
+; Used by
+;
+MSG_REL_EXPOSES
+Leverer
+; Provides
+;
+MSG_REL_EXPOSEDBY
+Leveres af
+; Provided by
+;
+MSG_REL_FIRMWARE
+Firmware-knude
+; Firmware node
+;
+MSG_REL_FIRMWAREOF
+Beskriver
+; Describes
+;
+MSG_REL_POWEREDBY
+Strømforsynes af
+; Powered by
+;
+MSG_REL_POWERS
+Strømforsyner
+; Powers
+;
+MSG_REL_MONITORS
+Overvåger
+; Monitors
+;
+MSG_REL_MONITOREDBY
+Overvåges af
+; Monitored by
+;
+MSG_REL_COMPANION
+Ledsager
+; Companion
+;
+MSG_REL_OTHER
+Relateret
+; Related
 ;

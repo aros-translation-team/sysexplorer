@@ -128,3 +128,57 @@ Removable
 MSG_CONFIG_MODES (//)
 Configured modes
 ;
+MSG_DEVICE_PATH (//)
+Device path
+;
+MSG_RELATIONS (//)
+Related objects
+;
+MSG_REL_PARENT (//)
+Part of
+;
+MSG_REL_CHILD (//)
+Contains
+;
+MSG_REL_DEVICE (//)
+Device
+;
+MSG_REL_DRIVER (//)
+Driver
+;
+MSG_REL_USES (//)
+Uses
+;
+MSG_REL_USEDBY (//)
+Used by
+;
+MSG_REL_EXPOSES (//)
+Provides
+;
+MSG_REL_EXPOSEDBY (//)
+Provided by
+;
+MSG_REL_FIRMWARE (//)
+Firmware node
+;
+MSG_REL_FIRMWAREOF (//)
+Describes
+;
+MSG_REL_POWEREDBY (//)
+Powered by
+;
+MSG_REL_POWERS (//)
+Powers
+;
+MSG_REL_MONITORS (//)
+Monitors
+;
+MSG_REL_MONITOREDBY (//)
+Monitored by
+;
+MSG_REL_COMPANION (//)
+Companion
+;
+MSG_REL_OTHER (//)
+Related
+;
